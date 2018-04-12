@@ -1,0 +1,4 @@
+/home/rmy/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rmy/深蓝作业/第五节
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rmy/深蓝作业/第五节/cmake-build-debug

@@ -1,0 +1,4 @@
+/home/rmy/深蓝作业/n3_trajectory（第三节）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rmy/深蓝作业/n3_trajectory（第三节）/cmake-build-debug/CMakeFiles/comp_t.dir
+/home/rmy/深蓝作业/n3_trajectory（第三节）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rmy/深蓝作业/n3_trajectory（第三节）/cmake-build-debug/CMakeFiles/draw_trajectory.dir

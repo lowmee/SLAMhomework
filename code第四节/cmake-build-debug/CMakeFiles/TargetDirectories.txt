@@ -1,0 +1,5 @@
+/home/rmy/深蓝作业/code第四节/cmake-build-debug/CMakeFiles/gaussnewton.dir
+/home/rmy/深蓝作业/code第四节/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rmy/深蓝作业/code第四节/cmake-build-debug/CMakeFiles/disparity.dir
+/home/rmy/深蓝作业/code第四节/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rmy/深蓝作业/code第四节/cmake-build-debug/CMakeFiles/undistort_image.dir

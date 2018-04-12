@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -g  -rdynamic CMakeFiles/decomposition.dir/decomposition.cpp.o  -o decomposition 

@@ -1,0 +1,3 @@
+/home/rmy/深蓝作业/第五节/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rmy/深蓝作业/第五节/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rmy/深蓝作业/第五节/cmake-build-debug/CMakeFiles/computeORB.dir

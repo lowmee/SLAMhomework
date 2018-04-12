@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/comp_t.dir/comp_t.cpp.o  -o comp_t -Wl,-rpath,/home/rmy/Sophus/build:/usr/local/lib /home/rmy/Sophus/build/libSophus.so /usr/local/lib/libpangolin.so -lGLU -lGL -lGLEW -lSM -lICE -lX11 -lXext -lrt -lpthread -ldc1394 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lpng -lz -ljpeg -ltiff -lIlmImf 
